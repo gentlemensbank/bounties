@@ -1,2 +1,2 @@
-# bounties
+# Bounties
 GB Community Bounties
